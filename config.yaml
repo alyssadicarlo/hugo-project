@@ -29,6 +29,9 @@ menu:
     - name: Search
       url: search/
       weight: 5
+    - name: JSON
+      url: json/
+      weight: 6
 
 params:
   env: production
